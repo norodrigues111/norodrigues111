@@ -17,8 +17,8 @@ I'm a results-oriented Data Analyst and Scientist student with over a decade of 
 - **Google Certificate in Data Analytics** Coursera | Apr. 2022
 
 ## Skills 💼
-- **Technical Skills:** Python programming | Business Intelligence tools: Tableau & Power BI | Database management: SQL, Excel, Access, Statistics
-- **Soft Skills:** Communication | Presentation | Team Player | Report Writing
+- **Technical Skills:** Python programming | SQL | Excel | Access | Statistics | Dashboard | Data Cleaning and Wrangling (Pandas) | Data Visualization (Tableau, Power BI, Python) | Machine Learning | Database Management (SSMS)
+- **Soft Skills:** Communication | Presentation | Team Player | Report | Critical Thinking | Time Management | Continuous Learning
 
 Feel free to explore my repositories and projects. For more details or inquiries, connect with me on LinkedIn [here](https://www.linkedin.com/in/natalia-de-oliveira-rodrigues).
 
