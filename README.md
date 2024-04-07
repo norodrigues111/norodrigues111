@@ -10,6 +10,7 @@ Having transitioned from a telecommunications background, where I honed my exper
 - **BBA Bachelor in Business Administration** University Mauricio de Nassau Brazil | Feb. 2010-Dec. 2014
 
 ## Certifications/Professional Training  📜
+- **Certificate in Advanced MySQL for Data Analysis** Analyst Builder | Apr. 2024
 - **Diploma in Python Programming with Distinction** CCT College Dublin | Sep. 2023
 - **Diploma in Predictive Data Analytics with Merit** CCT College Dublin | Sep. 2023
 - **Certificate in IT Specialist Database** eCollege & Solas Learning Work/Pearson | Sep. 2022
