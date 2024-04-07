@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm a results-oriented Data Analyst and Scientist student with over a decade of experience in critical thinking and complex problem-solving. Currently pursuing a BS Higher Diploma in Data Analytics for Business, I'm dedicated to staying updated on industry trends and continuously enhancing my skills.
+I'm a results-oriented Data Analyst with over a decade of experience in critical thinking and complex problem-solving. Graduated with a BS Higher Diploma in Data Analytics for Business, I've dedicated myself to staying updated on industry trends and continuously enhancing my skills.
+
+Having transitioned from a telecommunications background, where I honed my expertise in critical thinking and problem-solving, I've immersed myself in the exciting realm of data analytics. Currently working as a Data Analyst at Nucleo, I'm leveraging my extensive experience to drive insights and solutions in the data-driven landscape. 📊💡 #DataAnalytics #Telecommunications #CareerTransition
 
 ## Education 🎓
 - **BS Higher Diploma in Science in Data Analytics for Business** CCT College Dublin | Feb. 2023-Feb. 2024
